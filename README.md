@@ -18,7 +18,7 @@
 
 ### `// Contact`
 
-<p>▸ Telegram: [@IlyxaBB](https://t.me/IlyxaBB)</p>
+<p>▸ Telegram: <a href="https://t.me/IlyxaBB">@IlyxaBB</a></p>
 <p>▸ Email: ilyakutsenko27@gmail.com</p>
 
 ---
