@@ -12,9 +12,9 @@
 
 ### `// About me`
 
--✦ Backend Developer
--✦ Interested in software development and system architecture
--✦ Always learning and exploring new technologies
+<p>✦ Backend Developer</p>
+<p>✦ Interested in software development and system architecture</p>
+<p>✦ Always learning and exploring new technologies</p>
 
 ### `// Contact`
 
