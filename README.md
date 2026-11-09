@@ -1,4 +1,4 @@
-![# Hi everyone 👋](https://capsule-render.vercel.app/api?type=blur&height=300&color=timeGradient&section=footer&reversal=false&text=Hi+everyone&textBg=false&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
+# Hi everyone👋
 
 ### Backend Developer
 
@@ -22,7 +22,7 @@
 
 ### `// Contact`
 
-▸ Telegram: [@your_username](https://t.me/IlyxaBB)
+▸ Telegram: [@IlyxaBB](https://t.me/IlyxaBB)
 ▸ Email: ilyakutsenko27@gmail.com
 
 ---
@@ -30,3 +30,5 @@
 <p align="center">
   <i>「 Always building. Always learning. 」</i>
 </p>
+
+
