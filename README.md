@@ -8,7 +8,7 @@
 
 ### `// Technologies & Tools`
 
-[![My Skills](https://skillicons.dev/icons?i=py,csn,nodejs,ts,html,css,docker,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cs,nodejs,ts,html,css,docker,git)](https://skillicons.dev)
 
 ### `// About me`
 
