@@ -18,8 +18,8 @@
 
 ### `// Contact`
 
-▸ Telegram: [@IlyxaBB](https://t.me/IlyxaBB)
-▸ Email: ilyakutsenko27@gmail.com
+<p>▸ Telegram: [@IlyxaBB](https://t.me/IlyxaBB)</p>
+<p>▸ Email: ilyakutsenko27@gmail.com</p>
 
 ---
 
